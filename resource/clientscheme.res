@@ -18,6 +18,12 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// custom colours
+		"White_tf2"			"255 255 255 255"
+		"Black_tf2"			"0 0 0 255"
+		"LiBlue_tf2"		"117 215 239 255"
+		
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -2530,6 +2536,137 @@ Scheme
 			}
 		}
 		
+		Proto32
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto34
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto35
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto36
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto38
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto40
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto42
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto44
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto45
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto46
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto48
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Proto50
+		{
+			"1"
+			{
+				"name"		"Prototype"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 
 	}
 
