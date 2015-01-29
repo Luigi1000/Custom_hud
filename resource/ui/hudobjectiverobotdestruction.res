@@ -14,9 +14,9 @@
 
 		"left_steal_edge_offset"	"97"
 		"right_steal_edge_offset"	"97"
-		"robot_x_offset"		"78"
+		"robot_x_offset"		"63"	//78
 		"robot_y_offset"		"47"
-		"robot_x_step"			"23"
+		"robot_x_step"			"19"	//23
 		"robot_y_step"			"0"
 		
 
@@ -230,10 +230,10 @@
 		{
 			"fieldName"				"ProgressBarContainer"
 			"ControlName"			"EditablePanel"
-			"xpos"					"c-150"
+			"xpos"					"c-125"  //150
 			"ypos"					"r61"
 			"zpos"					"1"
-			"wide"					"300"
+			"wide"					"250"	//300
 			"tall"					"60"
 			"visible"				"1"
 			"enabled"				"1"
@@ -275,13 +275,13 @@
 					"xpos"			"0"
 					"ypos"			"0"
 					"zpos"			"8"
-					"wide"			"95"
+					"wide"			"105"
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -299,7 +299,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -308,7 +308,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
+					"xpos"			"-25"
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -317,7 +317,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -330,7 +330,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
-					"xpos"			"1"
+					"xpos"			"-24"
 					"ypos"			"1"
 					"zpos"			"7"
 					"wide"			"55"
@@ -339,7 +339,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -353,11 +353,11 @@
 			{
 				"fieldName"				"BlueProgressBarFill"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
+				"xpos"					"-2"
 				"ypos"					"0"
 				"zpos"					"2"
-				"wide"					"150"
-				"tall"					"f0"
+				"wide"					"127"
+				"tall"					"60"
 				"scaleimage"			"0"
 				"visible"				"1"
 				"proportionalToParent"	"1"
@@ -378,11 +378,11 @@
 			{
 				"fieldName"				"BlueProgressBarEscrow"
 				"ControlName"			"ImagePanel"
-				"xpos"					"0"
+				"xpos"					"-2"
 				"ypos"					"0"
 				"zpos"					"1"
-				"wide"					"150"
-				"tall"					"f0"
+				"wide"					"127"
+				"tall"					"60"
 				"scaleimage"			"0"
 				"visible"				"1"
 				"proportionalToParent"	"1"
@@ -416,7 +416,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
-					"xpos"			"140"
+					"xpos"			"110"
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"90"
@@ -425,7 +425,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 				}
@@ -434,7 +434,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelShadow"
-					"xpos"			"141"
+					"xpos"			"111"
 					"ypos"			"1"
 					"zpos"			"7"
 					"wide"			"90"
@@ -443,7 +443,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 				}
@@ -452,7 +452,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"0"
+					"xpos"			"-5"
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -461,7 +461,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"TanLight"		
 					"proportionalToParent"	"1"
 
@@ -474,7 +474,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
-					"xpos"			"1"
+					"xpos"			"-4"
 					"ypos"			"1"
 					"zpos"			"7"
 					"wide"			"55"
@@ -483,7 +483,7 @@
 					"enabled"		"1"
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
-					"font"			"HudFontSmallBold"
+					"font"			"Proto18"
 					"fgcolor"		"Black"		
 					"proportionalToParent"	"1"
 
@@ -497,15 +497,15 @@
 			{
 				"fieldName"				"RedProgressBarFill"
 				"ControlName"			"ImagePanel"
-				"xpos"					"150"
+				"xpos"					"124"
 				"ypos"					"0"
 				"zpos"					"2"
-				"wide"					"150"
-				"tall"					"f0"
+				"wide"					"127"
+				"tall"					"60"
 				"scaleimage"			"0"
 				"positionImage"			"0"
 				"visible"				"1"
-				"proportionalToParent"	"1"
+				"proportionalToParent"	"0"
 				"drawcolor"				"171 59 59 255"
 				"Image"					"../hud/objectives_corepanel_meter_solid_right"
 
@@ -522,15 +522,15 @@
 			{
 				"fieldName"				"RedProgressBarEscrow"
 				"ControlName"			"ImagePanel"
-				"xpos"					"150"
+				"xpos"					"124"
 				"ypos"					"0"
 				"zpos"					"1"
-				"wide"					"150"
-				"tall"					"f0"
+				"wide"					"127"
+				"tall"					"60"
 				"scaleimage"			"0"
 				"positionImage"			"0"
 				"visible"				"1"
-				"proportionalToParent"	"1"
+				"proportionalToParent"	"0"
 				"drawcolor"				"212 151 151 255"
 				"Image"					"../hud/objectives_corepanel_meter_right"
 
@@ -562,7 +562,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
-				"xpos"			"c-27"
+				"xpos"			"c-12"
 				"ypos"			"c-20"
 				"zpos"			"8"
 				"wide"			"55"
@@ -571,7 +571,7 @@
 				"enabled"		"1"
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"Proto26"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"		
@@ -582,8 +582,8 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
-				"xpos"			"c-26"
-				"ypos"			"c-19"
+				"xpos"			"c-10"
+				"ypos"			"c-18"
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
@@ -591,7 +591,7 @@
 				"enabled"		"1"
 				"textAlignment"	"west"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"Proto26"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
@@ -617,7 +617,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
-				"xpos"			"c-27"
+				"xpos"			"c-43"	//27
 				"ypos"			"c-20"
 				"zpos"			"8"
 				"wide"			"55"
@@ -626,7 +626,7 @@
 				"enabled"		"1"
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"Proto26"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"TanLight"	
@@ -637,8 +637,8 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"ScoreShadow"
-				"xpos"			"c-26"
-				"ypos"			"c-19"
+				"xpos"			"c-41"
+				"ypos"			"c-18"
 				"zpos"			"7"
 				"wide"			"55"
 				"tall"			"35"
@@ -646,7 +646,7 @@
 				"enabled"		"1"
 				"textAlignment"	"east"	
 				"labelText"		"%score%"
-				"font"			"HudFontMediumBold"
+				"font"			"Proto26"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
 				"fgcolor"		"Black"		
