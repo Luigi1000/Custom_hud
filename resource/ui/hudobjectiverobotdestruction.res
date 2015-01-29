@@ -259,7 +259,7 @@
 			{
 				"fieldName"				"BlueVictoryContainer"
 				"ControlName"			"EditablePanel"
-				"xpos"					"25"
+				"xpos"					"17"
 				"ypos"					"22"
 				"zpos"					"5"
 				"wide"					"f0"
@@ -272,10 +272,10 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabel"
-					"xpos"			"0"
+					"xpos"			"1"
 					"ypos"			"0"
 					"zpos"			"8"
-					"wide"			"105"
+					"wide"			"115"
 					"tall"			"35"
 					"visible"		"1"
 					"enabled"		"1"
@@ -308,7 +308,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"-25"
+					"xpos"			"-30"
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -330,7 +330,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
-					"xpos"			"-24"
+					"xpos"			"-29"
 					"ypos"			"1"
 					"zpos"			"7"
 					"wide"			"55"
@@ -452,7 +452,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTime"
-					"xpos"			"-5"
+					"xpos"			"-10"
 					"ypos"			"0"
 					"zpos"			"8"
 					"wide"			"55"
@@ -474,7 +474,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"VictoryLabelTimeShadow"
-					"xpos"			"-4"
+					"xpos"			"-9"
 					"ypos"			"1"
 					"zpos"			"7"
 					"wide"			"55"
@@ -497,10 +497,10 @@
 			{
 				"fieldName"				"RedProgressBarFill"
 				"ControlName"			"ImagePanel"
-				"xpos"					"124"
+				"xpos"					"125"
 				"ypos"					"0"
 				"zpos"					"2"
-				"wide"					"127"
+				"wide"					"126"
 				"tall"					"60"
 				"scaleimage"			"0"
 				"positionImage"			"0"
@@ -522,10 +522,10 @@
 			{
 				"fieldName"				"RedProgressBarEscrow"
 				"ControlName"			"ImagePanel"
-				"xpos"					"124"
+				"xpos"					"125"
 				"ypos"					"0"
 				"zpos"					"1"
-				"wide"					"127"
+				"wide"					"126"
 				"tall"					"60"
 				"scaleimage"			"0"
 				"positionImage"			"0"
